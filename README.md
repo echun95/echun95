@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://opgc.me/#/users/echun95" target="_blank"><img src="https://api.opgc.me/githubs/users/echun95/tag/?theme=basic" /></a>
